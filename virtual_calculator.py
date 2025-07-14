@@ -10,6 +10,8 @@ button_labels = [
     ["C", "0", "=", "+"]
 ]
 
+#added new line
+
 # --- Size and color settings for BIG, YELLOW calculator ---
 button_size = (140, 100)  # width, height (bigger)
 button_gap = 30           # space between buttons
